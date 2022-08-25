@@ -1,0 +1,8 @@
+{
+    "jobs": [
+        { "title": "Branki UX Designer", "id": 1, "details": "UX" },
+        { "title": "Branki UI Designer", "id": 2, "details": "UI" },
+        { "title": "Branki Web Developer", "id": 3, "details": "Web" },
+        { "title": "Branki Vue Developer", "id": 4, "details": "Vue" }
+    ]
+}
